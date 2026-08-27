@@ -19,8 +19,13 @@ void prinAll(); check
 */
 //====================================================
 // A. STACK USING ARRAYS
-const int cap = 15; // setting the maximum size of the stack
-std::string stack[cap];// Array that will store the symbols
+
+template <typename T>
+class arrStack {
+private:
+    T* stackArray;
+    int cap;
+    int top;
 
 int top = -1; // Indexing the top element
 //------------------------------------------------
