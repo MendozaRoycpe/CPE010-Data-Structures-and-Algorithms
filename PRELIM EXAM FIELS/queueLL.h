@@ -2,12 +2,6 @@
 // Created by royga on 8/27/2026.
 //
 
-#ifndef UNTITLED1_QUEUELL_H
-#define UNTITLED1_QUEUELL_H
-//
-// Created by royga on 8/4/2026.
-//
-
 #ifndef UNTITLED1_QUEUEARR_H
 #define UNTITLED1_QUEUEARR_H
 #include <iostream>
@@ -135,6 +129,4 @@ class queueArr {
         std::cout<<"Destructor was called Successfully";
     }
 };
-
 #endif //UNTITLED1_QUEUEARR_H
-#endif //UNTITLED1_QUEUELL_H

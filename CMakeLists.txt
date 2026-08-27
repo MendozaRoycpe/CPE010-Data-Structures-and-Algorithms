@@ -61,4 +61,6 @@ add_executable(untitled1 HOAFUCKTION2/HOA_1_1_FUNCTION_2.cpp
         "Preparatory files/checkermain.cpp"
         "PRELIM EXAM FIELS/arrStack.h"
         "PRELIM EXAM FIELS/queueLL.h"
-        "PRELIM EXAM FIELS/main.cpp")
+        "PRELIM EXAM FIELS/main.cpp"
+        "PRELIM EXAM FIELS/arr.cpp"
+        "PRELIM EXAM FIELS/queue.cpp")

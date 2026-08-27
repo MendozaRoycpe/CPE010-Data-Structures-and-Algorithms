@@ -5,6 +5,7 @@
 #ifndef UNTITLED1_ARRSTACK_H
 #define UNTITLED1_ARRSTACK_H
 #include <iostream>
+#include <stack>
 #include <string>
 
 //====================================================
