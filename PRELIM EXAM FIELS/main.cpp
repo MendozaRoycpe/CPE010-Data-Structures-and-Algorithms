@@ -1,6 +1,16 @@
 //
 // Created by royga on 8/27/2026.
 //
+#include <iostream>
+#include <string>
+#include "arrStack.h"
+#include "queueLL.h"
+
+// Function to check palindrome using stack + queue
+// since I will be combining both, instead of using another header, I can just put it in here in the main
+bool isPalindrome(const std::string& str) {
+    arrStack<char> s(str.size());   // stack (array-based)
+    queueArr<char> q(str.size());   // queue (array-based)
 
     // push/enqueue each character<- combine them(thanks twain for the idea)
     for (char c : str) {
