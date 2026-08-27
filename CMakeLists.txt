@@ -58,4 +58,7 @@ add_executable(untitled1 HOAFUCKTION2/HOA_1_1_FUNCTION_2.cpp
         "Preparatory files/palindrome.h"
         "Preparatory files/palindrome.cpp"
         "Preparatory files/arraycheckere.h"
-        "Preparatory files/checkermain.cpp")
+        "Preparatory files/checkermain.cpp"
+        "PRELIM EXAM FIELS/arrStack.h"
+        "PRELIM EXAM FIELS/queueLL.h"
+        "PRELIM EXAM FIELS/main.cpp")

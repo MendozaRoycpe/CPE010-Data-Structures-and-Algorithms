@@ -11,7 +11,7 @@ void pop(); check
 void Top(); check
 bool isEmpty(); check
 bool isFull(); check
-void prinAll();
+void prinAll(); check
 */
 //====================================================
 // A. STACK USING ARRAYS
@@ -154,7 +154,5 @@ void clearll() {
         popll<T>();
     }
 }
-
-
 
 #endif //UNTITLED1_STACKS_H
