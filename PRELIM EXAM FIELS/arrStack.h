@@ -27,7 +27,14 @@ private:
     int cap;
     int top;
 
-int top = -1; // Indexing the top element
+public:
+    arrStack(int size = 10) {
+        // setting the maximum size of the stack
+        cap = size;
+        stackArray = new T[cap];// Array that will store the symbols
+        top = -1;// Indexing the top element
+    }
+
 //------------------------------------------------
 // Check if the stack is empty
 bool isEmpty(){
@@ -40,35 +47,35 @@ bool isFull(){
 }
 //------------------------------------------------
 // Display the top element
-std::string Top(){
+T Top()const{
     if (isEmpty()){
         std::cout << "Stack is Empty.\n";
-        return;
+        return T();
     }
-    return stack[top];
+    return stackArray[top];
 }
 //------------------------------------------------
 // Push a character onto the stack
-void push(std::string value){
+void push(T value){
     // Prevent overflow
     if (isFull()){
         std::cout << "Stack Overflow!\n";
         return;
     }
     // Move top then insert the value
-    stack[++top] = value;
+    stackArray[++top] = value;
 }
 //------------------------------------------------
 // Remove the top/last inputted elemetn
-string pop(){
+T pop(){
     // Prevent underflow
     if (isEmpty()){
         std::cout << "Stack Underflow!\n";
-        return;
+        return T();
     }
 
     // Return current top then decrease top
-    return stack[top--];
+    return stackArray[top--];
 }
 //------------------------------------------------
 // Display all elements
@@ -80,12 +87,21 @@ void displayAll(){
     std::cout << "Stack Contents (Top to Bottom)\n";
 
     for (int i = top; i >= 0; i--){
-        std::cout << "|" << stack[i] << "|" << std::endl;
+        std::cout << "|" << stackArray[i] << "|" << std::endl;
     }
 }
 //------------------------------------------------
 // Reset the stack
-void clear(){
-    top = -1;
+void clear() {
+        top = -1;
+    }
+
+//------------------------------------------------
+    //Destructor
+~arrStack() {
+    // Release the dynamically allocated array
+    delete[] stackArray;
 }
-#endif //UNTITLED1_ARRSTACK_H
+};
+
+#endif // UNTITLED1_ARRSTACK_H

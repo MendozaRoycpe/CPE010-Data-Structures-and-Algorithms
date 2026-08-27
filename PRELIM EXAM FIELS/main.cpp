@@ -22,7 +22,8 @@ bool isPalindrome(const std::string& str) {
     while (!s.isEmpty() && !q.empty()) {
         char fromStack = s.pop();
         char fromQueue = q.dequeue();
-        if (fromStack != fromQueue) return false;
+        if (fromStack != fromQueue)
+            return false;
     }
     return true;
 }
