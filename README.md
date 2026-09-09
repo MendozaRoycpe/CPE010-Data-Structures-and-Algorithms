@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/MendozaRoycpe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+REPOSITORY!;CPE+010+-+Data+Structures+and+Algorithms;Sorting+%E2%80%A2+Searching+%E2%80%A2+C%2B%2B+Templates" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+REPOSITORY!;CPE+010+-+Data+Structures+and+Algorithms;Pointers+%E2%80%A2+Linked+Lists+%E2%80%A2+Stacks+%E2%80%A2+Queues+%E2%80%A2+Sorting" alt="Typing Effect" />
 </a>
 
 <br><br>
@@ -15,11 +15,14 @@
 
 <!-- INTERACTIVE NAVIGATION BUTTONS -->
 <p align="center">
-  <a href="https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms">
-    <img src="https://img.shields.io/badge/Status-Active_Coursework-brightgreen?style=for-the-badge&logo=github" alt="Status">
+  <a href="#-hands-on-activities">
+    <img src="https://img.shields.io/badge/📂_Hands--On_Activities-Go_To-007ACC?style=for-the-badge&logo=folder&logoColor=white" alt="HOA">
   </a>
-  <a href="https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms">
-    <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <a href="#-reports--assignments">
+    <img src="https://img.shields.io/badge/📝_Reports_%26_Assignments-Go_To-FF8C00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Assignments">
+  </a>
+  <a href="#-prelim-exam--preparatory-files">
+    <img src="https://img.shields.io/badge/📝_Exams_%26_Prep-Go_To-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Exams">
   </a>
   <a href="#-author-profile">
     <img src="https://img.shields.io/badge/👨‍💻_Author_Profile-Contact-28A745?style=for-the-badge&logo=person&logoColor=white" alt="Author">
@@ -36,13 +39,13 @@
 <summary><b>📘 Course Overview & Objectives (Click to toggle)</b></summary>
 <br>
 
-> Welcome to the official repository for **CPE 010: Data Structures and Algorithms**. This interactive archive contains laboratory implementations, custom algorithm templates, performance benchmarks, and theoretical time complexity analyses written in standard **C++**.
+> Welcome to the official repository for **CPE 010: Data Structures and Algorithms**. This interactive archive contains laboratory implementations, custom algorithm headers, performance benchmarks, and theoretical time complexity analyses written in standard **C++**.
 
 ### 🎯 Key Learning Outcomes
-* 🧱 **Fundamental Data Structures:** Implementing and manipulating arrays, linked lists, stacks, and queues.
-* ⚡ **Sorting Algorithms:** Analyzing and implementing Bubble, Selection, and Insertion Sort manually using C++ templates.
-* 🔍 **Searching Techniques:** Comparing execution efficiency of Linear vs. Binary search across sequential and node-based data.
-* ⏱️ **Complexity Analysis:** Evaluating time ($\mathcal{O}(n)$, $\mathcal{O}(n^2)$, $\mathcal{O}(\log n)$) and space trade-offs across dataset scales.
+* 🧱 **Fundamental Data Structures:** Linked Lists (Singly & Doubly), Stacks, Queues, and dynamic node structures.
+* ⚡ **Sorting Algorithms:** Bubble, Selection, and Insertion Sort implementations and time-complexity observations.
+* 🔍 **Searching Techniques:** Linear Search and Binary Search algorithms across arrays and linked node topologies.
+* ⏱️ **Complexity Analysis:** Asymptotic Analysis ($\mathcal{O}(n)$, $\mathcal{O}(n^2)$, $\mathcal{O}(\log n)$) and memory management.
 
 </details>
 
@@ -54,9 +57,9 @@
 
 | Component | Technologies & Frameworks |
 | :--- | :--- |
-| **Language & Standard** | ![C++](https://img.shields.io/badge/-C%2B%2B17-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![GCC](https://img.shields.io/badge/-MinGW_/_GCC-4C1D95?style=flat-square) |
-| **IDE & Environment** | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) |
-| **Version Control & Utilities** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Language & Standard** | ![C++](https://img.shields.io/badge/-C%2B%2B17-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![GCC](https://img.shields.io/badge/-MinGW_/_GCC-4C1D95?style=flat-square) ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) |
+| **IDE & Tools** | ![CLion](https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 </div>
 
@@ -64,27 +67,73 @@
 
 ---
 
-## 📂 Submissions & Activity Tracker
+<a name="-hands-on-activities"></a>
+## 📂 Hands-On Activities (HOA)
 
 <details open>
-<summary><b>🟡 Coursework Modules & Implementations (Click to toggle)</b></summary>
+<summary><b>🧪 Laboratory Submissions & C++ Headers (Click to toggle)</b></summary>
 <br>
 
-| Module / Topic | Description | Stack / Focus | Status |
+| Module / Topic | Core Concepts / Key Files | Status | Interactive Link |
 | :--- | :--- | :---: | :---: |
-| **Sorting Algorithms Library** | Bubble, Selection, and Insertion Sort manual template library | `C++ Templates` | `✅ Completed` |
-| **Searching Algorithms** | Linear and Binary Search implementations for arrays & linked lists | `C++ / Pointer Logic` | `✅ Completed` |
-| **Practical Applications** | Real-world simulation tasks (e.g., ballot counting systems) | `Algorithms` | `✅ Completed` |
-| **Laboratory Performance Tests** | Benchmarking execution runtime across scaled random arrays | `C++ / Chrono` | `✅ Completed` |
+| **HOA 1** | Functions, execution routines, & ILO C routines | `✅ Completed` | [📂 Open Directory](./HOA1) |
+| **HOA 2.1** | Array & Pointer Manipulation routines | `✅ Completed` | [📂 Open Directory](./Hoa%202.1%20july%2016-21) |
+| **HOA 3.1** | Doubly Linked Lists & `Playlist.h` implementation | `✅ Completed` | [📂 Open Directory](./HOA%203p1) |
+| **HOA 4** | Stack ADT (Array & Linked List backing), `STACKS.h` | `✅ Completed` | [📂 Open Directory](./HOA%204%20-%20stacks) |
+| **HOA 5.1** | Queue ADT, Circular Queue, Job/Printer Queues | `✅ Completed` | [📂 Open Directory](./HOA%205p1) |
+| **HOA 6.1** | Searching Algorithms (`searchingAlgo.h`, `nodes.h`) | `✅ Completed` | [📂 Open Directory](./HOA6p1) |
+| **HOA 7.1** | Sorting Algorithms Laboratory (`ALGO.h`) | `✅ Completed` | [📂 Open Directory](./HOA%207p1) |
+| **HOA 8.1** | Advanced Sorting & Supplementary Benchmarks | `✅ Completed` | [📂 Open Directory](./HOA%208p1) |
+| **Culmination Header** | Unified Headers (`CULMINATION OF H2 to H5.h`) | `✅ Completed` | [📄 View File](./CULMINATION%20OF%20H2%20to%20H5.h) |
 
 </details>
 
 ---
 
-## 📊 Course Progress
+<a name="-reports--assignments"></a>
+## 📝 Coursework Reports & Written Submissions
 
-**Coursework Progress:**
-![](https://geps.dev/progress/80?dangerColor=8a2be2&warningColor=ff8c00&successColor=007ACC)
+<details open>
+<summary><b>📄 PDF Lab Reports, Seatworks & Documentation (Click to toggle)</b></summary>
+<br>
+
+| Document Name | Topic / Description | Format | Link |
+| :--- | :--- | :---: | :---: |
+| **Asymptotic Analysis & Big O** | Complexity and efficiency analysis breakdown | `PDF` | [📄 View PDF](./Asymptotic%20Analysis%20%26%20Big%20O.pdf) |
+| **HOA 3 Report** | CPE010 HOA 3 Lab Report | `PDF` | [📄 View PDF](./CPE010_HOA3_Mendoza,%20Roy.pdf) |
+| **HOA 4.1 Report** | CPE010 HOA 4.1 Stacks Report | `PDF` | [📄 View PDF](./CPE010_HOA4.1_Mendoza,Roy.pdf) |
+| **HOA 6.1 Report** | CPE010 HOA 6.1 Searching Algorithms | `PDF` | [📄 View PDF](./CPE010_HOA6.1_Mendoza_Roy.pdf) |
+| **HOA 7.1 Report** | CPE010 HOA 7.1 Sorting Algorithms | `PDF` | [📄 View PDF](./CPE010_HOA7p1_Mendoza,%20Roy.pdf) |
+| **Seatwork 2.1** | CPE010 Seatwork 2.1 Submission | `PDF` | [📄 View PDF](./CPE010_SEATWORK2.1-Mendoza,%20Roy.pdf) |
+| **Seatwork 4.1** | CPE010 Seatwork 4.1 Stacks Submission | `PDF` | [📄 View PDF](./CPE010_SW4.1_Mendoza,Roy.pdf) |
+| **Seatwork 5.1** | Progress Report: Hands-On Activity 5.1 Queues | `PDF` | [📄 View PDF](./Seatwork%205.1%20Progress%20Report%20Hands-on%20Activity%205.1%20Queues_Mendoza_Roy.pdf) |
+| **Assignment 6.1** | Linear and Binary Search (Group 5) | `PDF` | [📄 View PDF](./Assignment%206.1%20Linear%20and%20Binary%20Search_Group5.pdf) |
+| **Activity 4 Stacks** | Act 4 Stacks Supplemental Document | `PDF` | [📄 View PDF](./Act%204_Stacks.pdf) |
+
+</details>
+
+---
+
+<a name="-prelim-exam--preparatory-files"></a>
+## 📝 Exams & Preparatory Files
+
+<details open>
+<summary><b>📂 Exam Code & Practice Modules (Click to toggle)</b></summary>
+<br>
+
+| Module | Contents | Status | Interactive Link |
+| :--- | :--- | :---: | :---: |
+| **Prelim Exam Files** | `main.cpp`, `arr.cpp`, `queue.cpp`, `arrStack.h`, `queueLL.h` | `✅ Completed` | [📂 Open Directory](./PRELIM%20EXAM%20FIELS) |
+| **Preparatory Files** | Palindrome Checker, Array Checker (`palindrome.h`, `arraycheckere.h`) | `✅ Completed` | [📂 Open Directory](./Preparatory%20files) |
+
+</details>
+
+---
+
+## 📊 Course Completion Progress
+
+**Coursework & Modules Completed:**
+![](https://geps.dev/progress/100?dangerColor=8a2be2&warningColor=ff8c00&successColor=007ACC)
 
 ---
 
@@ -92,17 +141,20 @@
 <summary><b>⚙️ Compilation & Execution Instructions</b></summary>
 <br>
 
-To compile and run any algorithm module locally using standard GCC/G++:
+To compile and run any algorithm module locally using Standard GCC/G++:
 
 ```bash
 # 1. Clone the repository
 git clone [https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms.git](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms.git)
 
-# 2. Navigate to project directory
+# 2. Navigate into project folder
 cd CPE010-Data-Structures-and-Algorithms
 
-# 3. Compile C++ source code
-g++ -O2 -std=c++17 main.cpp -o app
+# 3. Navigate into a specific activity folder (e.g., HOA 7p1)
+cd "HOA 7p1"
 
-# 4. Run execution binary
+# 4. Compile C++ source files
+g++ -O2 -std=c++17 MAIN.cpp -o app
+
+# 5. Execute binary
 ./app
