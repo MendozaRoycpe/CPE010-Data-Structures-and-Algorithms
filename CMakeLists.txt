@@ -63,4 +63,11 @@ add_executable(untitled1 HOAFUCKTION2/HOA_1_1_FUNCTION_2.cpp
         "PRELIM EXAM FIELS/queueLL.h"
         "PRELIM EXAM FIELS/main.cpp"
         "PRELIM EXAM FIELS/arr.cpp"
-        "PRELIM EXAM FIELS/queue.cpp")
+        "PRELIM EXAM FIELS/queue.cpp"
+        "HOA 7p1/MAIN.cpp"
+        "HOA 7p1/ALGO.h"
+        "HOA 7p1/MAIN1.cpp"
+        "HOA 8p1/Main.cpp"
+        "HOA 8p1/ALGO.h"
+        "HOA 8p1/SUPPLEMENTARY/MAIN.cpp"
+        "HOA 8p1/SUPPLEMENTARY/ALGO.h")
