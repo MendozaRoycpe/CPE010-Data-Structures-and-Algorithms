@@ -99,18 +99,18 @@
 
 | Document Name | Topic / Description | Format | Link |
 | :--- | :--- | :---: | :---: |
-| **Asymptotic Analysis & Big O** | Complexity and efficiency analysis breakdown | `PDF` | [📄 View PDF](./Asymptotic%20Analysis%20%26%20Big%20O.pdf) |
-| **HOA 3 Report** | CPE010 HOA 3 Lab Report | `PDF` | [📄 View PDF](./CPE010_HOA3_Mendoza,%20Roy.pdf) |
-| **HOA 4.1 Report** | CPE010 HOA 4.1 Stacks Report | `PDF` | [📄 View PDF](./CPE010_HOA4.1_Mendoza,Roy.pdf) |
-| **HOA 5.1 Report** | CPE010 HOA 5.1 Queues Submission | `PDF` | [📄 View PDF](./_CPE010_HOA5.1_Mendoza_Roy.pdf) |
-| **HOA 6.1 Report** | CPE010 HOA 6.1 Searching Algorithms | `PDF` | [📄 View PDF](./CPE010_HOA6.1_Mendoza_Roy.pdf) |
-| **HOA 7.1 Report** | CPE010 HOA 7.1 Sorting Algorithms | `PDF` | [📄 View PDF](./CPE010_HOA7p1_Mendoza,%20Roy.pdf) |
-| **Seatwork 2.1** | CPE010 Seatwork 2.1 Submission | `PDF` | [📄 View PDF](./CPE010_SEATWORK2.1-Mendoza,%20Roy.pdf) |
-| **Seatwork 4.1** | CPE010 Seatwork 4.1 Stacks Submission | `PDF` | [📄 View PDF](./CPE010_SW4.1_Mendoza,Roy.pdf) |
-| **Seatwork 5.1** | Progress Report: Hands-On Activity 5.1 Queues | `PDF` | [📄 View PDF](./Seatwork%205.1%20Progress%20Report%20Hands-on%20Activity%205.1%20Queues_Mendoza_Roy.pdf) |
-| **Seatwork 7.2** | Algorithm Analysis: Best/Worst Case Complexity | `PDF` | [📄 View PDF](./Seatwork%207.2_%20Algorithm%20Analysis_%20Best-Case%20and%20Worst-Case%20Time%20Complexity_Mendoza_Roy.pdf) |
-| **Assignment 6.1** | Linear and Binary Search (Group 5) | `PDF` | [📄 View PDF](./Assignment%206.1%20Linear%20and%20Binary%20Search_Group5.pdf) |
-| **Activity 4 Stacks** | Act 4 Stacks Supplemental Document | `PDF` | [📄 View PDF](./Act%204_Stacks.pdf) |
+| **Asymptotic Analysis & Big O** | Complexity and efficiency analysis breakdown | `PDF` | [📄 View PDF](./DOCUMENTS/Asymptotic%20Analysis%20%26%20Big%20O.pdf) |
+| **HOA 3 Report** | CPE010 HOA 3 Lab Report | `PDF` | [📄 View PDF](./DOCUMENTS/CPE010_HOA3_Mendoza,%20Roy.pdf) |
+| **HOA 4.1 Report** | CPE010 HOA 4.1 Stacks Report | `PDF` | [📄 View PDF](./DOCUMENTS/CPE010_HOA4.1_Mendoza,Roy.pdf) |
+| **HOA 5.1 Report** | CPE010 HOA 5.1 Queues Submission | `PDF` | [📄 View PDF](./DOCUMENTS/_CPE010_HOA5.1_Mendoza_Roy.pdf) |
+| **HOA 6.1 Report** | CPE010 HOA 6.1 Searching Algorithms | `PDF` | [📄 View PDF](./DOCUMENTS/CPE010_HOA6.1_Mendoza_Roy.pdf) |
+| **HOA 7.1 Report** | CPE010 HOA 7.1 Sorting Algorithms | `PDF` | [📄 View PDF](./DOCUMENTS/CPE010_HOA7p1_Mendoza,%20Roy.pdf) |
+| **Seatwork 2.1** | CPE010 Seatwork 2.1 Submission | `PDF` | [📄 View PDF](./DOCUMENTS/CPE010_SEATWORK2.1-Mendoza,%20Roy.pdf) |
+| **Seatwork 4.1** | CPE010 Seatwork 4.1 Stacks Submission | `PDF` | [📄 View PDF](./DOCUMENTS/CPE010_SW4.1_Mendoza,Roy.pdf) |
+| **Seatwork 5.1** | Progress Report: Hands-on Activity 5.1 Queues | `PDF` | [📄 View PDF](./DOCUMENTS/Seatwork%205.1%20Progress%20Report%20Hands-on%20Activity%205.1%20Queues_Mendoza_Roy.pdf) |
+| **Seatwork 7.2** | Algorithm Analysis: Best/Worst Case Complexity | `PDF` | [📄 View PDF](./DOCUMENTS/Seatwork%207.2_%20Algorithm%20Analysis_%20Best-Case%20and%20Worst-Case%20Time%20Complexity_Mendoza_Roy.pdf) |
+| **Assignment 6.1** | Linear and Binary Search (Group 5) | `PDF` | [📄 View PDF](./DOCUMENTS/Assignment%206.1%20Linear%20and%20Binary%20Search_Group5.pdf) |
+| **Activity 4 Stacks** | Act 4 Stacks Supplemental Document | `PDF` | [📄 View PDF](./DOCUMENTS/Act%204_Stacks.pdf) |
 
 </details>
 
@@ -125,7 +125,7 @@
 
 | Module / Document | Contents / Description | Status / Format | Interactive Link |
 | :--- | :--- | :---: | :---: |
-| **Prelim Laboratory Exam SET C** | Official Prelim Exam Documentation | `PDF` | [📄 View PDF](./Prelim%20Laboratory%20Exam%20SET%20C_Mendoza,Roy.pdf) |
+| **Prelim Laboratory Exam SET C** | Official Prelim Exam Documentation | `PDF` | [📄 View PDF](./DOCUMENTS/Prelim%20Laboratory%20Exam%20SET%20C_Mendoza,Roy.pdf) |
 | **Prelim Exam Source Code** | `main.cpp`, `arr.cpp`, `queue.cpp`, `arrStack.h`, `queueLL.h` | `✅ Completed` | [📂 Open Directory](./PRELIM%20EXAM%20FIELS) |
 | **Preparatory Files** | Palindrome Checker, Array Checker (`palindrome.h`, `arraycheckere.h`) | `✅ Completed` | [📂 Open Directory](./Preparatory%20files) |
 
