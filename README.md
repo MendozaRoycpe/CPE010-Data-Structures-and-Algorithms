@@ -76,15 +76,15 @@
 
 | Module / Topic | Core Concepts / Key Files | Status | Interactive Link |
 | :--- | :--- | :---: | :---: |
-| **HOA 1** | Functions, execution routines, & ILO C routines | `✅ Completed` | [📂 Open Directory](./HOA1) |
-| **HOA 2.1** | Array & Pointer Manipulation routines | `✅ Completed` | [📂 Open Directory](./Hoa%202.1%20july%2016-21) |
-| **HOA 3.1** | Doubly Linked Lists & `Playlist.h` implementation | `✅ Completed` | [📂 Open Directory](./HOA%203p1) |
-| **HOA 4** | Stack ADT (Array & Linked List backing), `STACKS.h` | `✅ Completed` | [📂 Open Directory](./HOA%204%20-%20stacks) |
-| **HOA 5.1** | Queue ADT, Circular Queue, Job/Printer Queues | `✅ Completed` | [📂 Open Directory](./HOA%205p1) |
-| **HOA 6.1** | Searching Algorithms (`searchingAlgo.h`, `nodes.h`) | `✅ Completed` | [📂 Open Directory](./HOA6p1) |
-| **HOA 7.1** | Sorting Algorithms Laboratory (`ALGO.h`) | `✅ Completed` | [📂 Open Directory](./HOA%207p1) |
-| **HOA 8.1** | Advanced Sorting & Supplementary Benchmarks | `✅ Completed` | [📂 Open Directory](./HOA%208p1) |
-| **Culmination Header** | Unified Headers (`CULMINATION OF H2 to H5.h`) | `✅ Completed` | [📄 View File](./CULMINATION%20OF%20H2%20to%20H5.h) |
+| **HOA 1** | Functions, execution routines, & ILO C routines | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/HOA1) |
+| **HOA 2.1** | Array & Pointer Manipulation routines | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/Hoa%202.1%20july%2016-21) |
+| **HOA 3.1** | Doubly Linked Lists & `Playlist.h` implementation | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/HOA%203p1) |
+| **HOA 4** | Stack ADT (Array & Linked List backing), `STACKS.h` | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/HOA%204%20-%20stacks) |
+| **HOA 5.1** | Queue ADT, Circular Queue, Job/Printer Queues | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/HOA%205p1) |
+| **HOA 6.1** | Searching Algorithms (`searchingAlgo.h`, `nodes.h`) | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/HOA6p1) |
+| **HOA 7.1** | Sorting Algorithms Laboratory (`ALGO.h`) | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/HOA%207p1) |
+| **HOA 8.1** | Advanced Sorting & Supplementary Benchmarks | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/HOA%208p1) |
+| **Culmination Header** | Unified Headers (`CULMINATION OF H2 to H5.h`) | `✅ Completed` | [📄 View File](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/CULMINATION%20OF%20H2%20to%20H5.h) |
 
 </details>
 
@@ -99,18 +99,18 @@
 
 | Document Name | Topic / Description | Format | Link |
 | :--- | :--- | :---: | :---: |
-| **Asymptotic Analysis & Big O** | Complexity and efficiency analysis breakdown | `PDF` | [📄 View PDF](./DOCUMENTS/Asymptotic%20Analysis%20%26%20Big%20O.pdf) |
-| **HOA 3 Report** | CPE010 HOA 3 Lab Report | `PDF` | [📄 View PDF](./DOCUMENTS/CPE010_HOA3_Mendoza,%20Roy.pdf) |
-| **HOA 4.1 Report** | CPE010 HOA 4.1 Stacks Report | `PDF` | [📄 View PDF](./DOCUMENTS/CPE010_HOA4.1_Mendoza,Roy.pdf) |
-| **HOA 5.1 Report** | CPE010 HOA 5.1 Queues Submission | `PDF` | [📄 View PDF](./DOCUMENTS/_CPE010_HOA5.1_Mendoza_Roy.pdf) |
-| **HOA 6.1 Report** | CPE010 HOA 6.1 Searching Algorithms | `PDF` | [📄 View PDF](./DOCUMENTS/CPE010_HOA6.1_Mendoza_Roy.pdf) |
-| **HOA 7.1 Report** | CPE010 HOA 7.1 Sorting Algorithms | `PDF` | [📄 View PDF](./DOCUMENTS/CPE010_HOA7p1_Mendoza,%20Roy.pdf) |
-| **Seatwork 2.1** | CPE010 Seatwork 2.1 Submission | `PDF` | [📄 View PDF](./DOCUMENTS/CPE010_SEATWORK2.1-Mendoza,%20Roy.pdf) |
-| **Seatwork 4.1** | CPE010 Seatwork 4.1 Stacks Submission | `PDF` | [📄 View PDF](./DOCUMENTS/CPE010_SW4.1_Mendoza,Roy.pdf) |
-| **Seatwork 5.1** | Progress Report: Hands-on Activity 5.1 Queues | `PDF` | [📄 View PDF](./DOCUMENTS/Seatwork%205.1%20Progress%20Report%20Hands-on%20Activity%205.1%20Queues_Mendoza_Roy.pdf) |
-| **Seatwork 7.2** | Algorithm Analysis: Best/Worst Case Complexity | `PDF` | [📄 View PDF](./DOCUMENTS/Seatwork%207.2_%20Algorithm%20Analysis_%20Best-Case%20and%20Worst-Case%20Time%20Complexity_Mendoza_Roy.pdf) |
-| **Assignment 6.1** | Linear and Binary Search (Group 5) | `PDF` | [📄 View PDF](./DOCUMENTS/Assignment%206.1%20Linear%20and%20Binary%20Search_Group5.pdf) |
-| **Activity 4 Stacks** | Act 4 Stacks Supplemental Document | `PDF` | [📄 View PDF](./DOCUMENTS/Act%204_Stacks.pdf) |
+| **Asymptotic Analysis & Big O** | Complexity and efficiency analysis breakdown | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/Asymptotic%20Analysis%20%26%20Big%20O.pdf?raw=true) |
+| **HOA 3 Report** | CPE010 HOA 3 Lab Report | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/CPE010_HOA3_Mendoza%2C%20Roy.pdf?raw=true) |
+| **HOA 4.1 Report** | CPE010 HOA 4.1 Stacks Report | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/CPE010_HOA4.1_Mendoza%2CRoy.pdf?raw=true) |
+| **HOA 5.1 Report** | CPE010 HOA 5.1 Queues Submission | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/_CPE010_HOA5.1_Mendoza_Roy.pdf?raw=true) |
+| **HOA 6.1 Report** | CPE010 HOA 6.1 Searching Algorithms | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/CPE010_HOA6.1_Mendoza_Roy.pdf?raw=true) |
+| **HOA 7.1 Report** | CPE010 HOA 7.1 Sorting Algorithms | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/CPE010_HOA7p1_Mendoza%2C%20Roy.pdf?raw=true) |
+| **Seatwork 2.1** | CPE010 Seatwork 2.1 Submission | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/CPE010_SEATWORK2.1-Mendoza%2C%20Roy.pdf?raw=true) |
+| **Seatwork 4.1** | CPE010 Seatwork 4.1 Stacks Submission | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/CPE010_SW4.1_Mendoza%2CRoy.pdf?raw=true) |
+| **Seatwork 5.1** | Progress Report: Hands-on Activity 5.1 Queues | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/Seatwork%205.1%20Progress%20Report%20Hands-on%20Activity%205.1%20Queues_Mendoza_Roy.pdf?raw=true) |
+| **Seatwork 7.2** | Algorithm Analysis: Best/Worst Case Complexity | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/Seatwork%207.2_%20Algorithm%20Analysis_%20Best-Case%20and%20Worst-Case%20Time%20Complexity_Mendoza_Roy.pdf?raw=true) |
+| **Assignment 6.1** | Linear and Binary Search (Group 5) | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/Assignment%206.1%20Linear%20and%20Binary%20Search_Group5.pdf?raw=true) |
+| **Activity 4 Stacks** | Act 4 Stacks Supplemental Document | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/Act%204_Stacks.pdf?raw=true) |
 
 </details>
 
@@ -125,9 +125,9 @@
 
 | Module / Document | Contents / Description | Status / Format | Interactive Link |
 | :--- | :--- | :---: | :---: |
-| **Prelim Laboratory Exam SET C** | Official Prelim Exam Documentation | `PDF` | [📄 View PDF](./DOCUMENTS/Prelim%20Laboratory%20Exam%20SET%20C_Mendoza,Roy.pdf) |
-| **Prelim Exam Source Code** | `main.cpp`, `arr.cpp`, `queue.cpp`, `arrStack.h`, `queueLL.h` | `✅ Completed` | [📂 Open Directory](./PRELIM%20EXAM%20FIELS) |
-| **Preparatory Files** | Palindrome Checker, Array Checker (`palindrome.h`, `arraycheckere.h`) | `✅ Completed` | [📂 Open Directory](./Preparatory%20files) |
+| **Prelim Laboratory Exam SET C** | Official Prelim Exam Documentation | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/Prelim%20Laboratory%20Exam%20SET%20C_Mendoza%2CRoy.pdf?raw=true) |
+| **Prelim Exam Source Code** | `main.cpp`, `arr.cpp`, `queue.cpp`, `arrStack.h`, `queueLL.h` | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/PRELIM%20EXAM%20FIELS) |
+| **Preparatory Files** | Palindrome Checker, Array Checker (`palindrome.h`, `arraycheckere.h`) | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/Preparatory%20files) |
 
 </details>
 
