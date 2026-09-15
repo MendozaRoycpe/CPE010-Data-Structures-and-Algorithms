@@ -72,4 +72,6 @@ add_executable(untitled1 HOAFUCKTION2/HOA_1_1_FUNCTION_2.cpp
         "HOA 8p1/SUPPLEMENTARY/MAIN.cpp"
         "HOA 8p1/SUPPLEMENTARY/ALGO.h"
         "HOA 8p2/Main .cpp"
-        "HOA 8p2/sortAlgo.h")
+        "HOA 8p2/sortAlgo.h"
+        SEATWORK/main.cpp
+        "SEATWORK/header .h")
