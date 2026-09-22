@@ -2,35 +2,30 @@
 // Created by royga on 9/21/2026.
 //
 #include <iostream>
-#include "genTree.h"
-#include <string>
+#include "bst.h"
 
 int main() {
-    genTree<int> tree(2);
+    //Step 1: Implement a binary search tree that will take the following values: 2, 3, 9, 18, 0, 1, 4, 5.
+    baiSerTree<int> tree(2);
 
-    // Children of
-    genTree<int>* n3  = tree.insert(3);
-    genTree<int>* n18 = tree.insert(18);
+    tree.insert(3);
+    tree.insert(9);
+    tree.insert(18);
+    tree.insert(0);
+    tree.insert(1);
+    tree.insert(4);
+    tree.insert(5);
 
-    // Children of 3
-    n3->insert(9);
-
-    // Children of 18
-    n18->insert(0);
-    n18->insert(1);
-    n18->insert(4);
-    n18->insert(5);
-
-    tree.printTree();
+    //Step 3: Compare the different traversal methods. In-order traversal was performed with what function?
+    std::cout << "In-order:   ";
+    tree.inOrder();
 
     std::cout << "\nPre-order:  ";
     tree.preOrder();
 
     std::cout << "\nPost-order: ";
     tree.postOrder();
-
-    std::cout << "\nIn-order:   ";
-    tree.inOrder();
+    std::cout << "\n";
 
     return 0;
 }

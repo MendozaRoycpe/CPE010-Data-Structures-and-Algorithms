@@ -78,7 +78,7 @@ void baiSerTree<T>::inOrder() {
     if (left != nullptr) {
         left->inOrder();
     }
-    std::cout << key << " "; // Printed only once in the middle
+    std::cout << key << " ";
     if (right != nullptr) {
         right->inOrder();
     }
@@ -93,7 +93,7 @@ void baiSerTree<T>::postOrder() {
     if (right != nullptr) {
         right->postOrder();
     }
-    std::cout << key << " "; // Printed only once at the end
+    std::cout << key << " ";
 }
 
 #endif //UNTITLED1_BST_H
