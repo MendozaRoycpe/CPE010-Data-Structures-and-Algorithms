@@ -39,7 +39,7 @@
 <summary><b>📘 Course Overview & Objectives (Click to toggle)</b></summary>
 <br>
 
-> Welcome to the official repository for **CPE 010: Data Structures and Algorithms**. This interactive archive contains laboratory implementations, custom algorithm headers, performance benchmarks, and theoretical time complexity analyses written in standard **C++**. Files are organized by term: **Prelim**, **Midterm**, and **Finals**.
+> Welcome to the official repository for **CPE 010: Data Structures and Algorithms**. This interactive archive contains laboratory implementations, custom algorithm headers, performance benchmarks, and theoretical time complexity analyses written in standard **C++**. Files are organized by term (**Prelim**, **Midterm**, and **Finals**), and each activity folder also holds its lab report.
 
 ### 🎯 Key Learning Outcomes
 * 🧱 **Fundamental Data Structures:** Linked Lists (Singly & Doubly), Stacks, Queues, and dynamic node structures.
@@ -95,7 +95,7 @@
 | **HOA 7.1** | Sorting Algorithms Laboratory (`ALGO.h`) | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/MIDTERM/HOA%207p1) |
 | **HOA 8.1** | Bubble, Insertion & Selection Sort (`ALGO.h`) with supplementary benchmarks | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/MIDTERM/HOA%208p1) |
 | **HOA 8.2** | Advanced Sorting: Shell, Merge & Quick Sort (`sortAlgo.h`) | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/MIDTERM/HOA%208p2) |
-| **HOA 9** | Binary Search Tree (`bst.h`) & General Tree (`genTree.h`) | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/MIDTERM/HOA%209%20binary%20tree) |
+| **HOA 9.1** | Binary Search Tree (`bst.h`) & General Tree (`genTree.h`) | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/MIDTERM/HOA%209%20binary%20tree) |
 
 ### 🟪 Finals Term
 
@@ -112,7 +112,7 @@
 | Module / Topic | Core Concepts / Key Files | Status | Interactive Link |
 | :--- | :--- | :---: | :---: |
 | **Seatwork (Trees)** | `BinaryTree` class implementation (`header .h`, `main.cpp`) | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/SEATWORK) |
-| **Seatwork 10 (Graphs)** | Graph with `Vertex` adjacency map (`graph.h`, `main.cpp`) | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/SEATWORK%2010) |
+| **Seatwork 10 (Graphs)** | Graph with `Vertex` adjacency map (`graph.h`, `main.cpp`) | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/SEATWORK/SEATWORK%2010) |
 
 </details>
 
@@ -125,25 +125,38 @@
 <summary><b>📄 PDF Lab Reports, Seatworks & Documentation (Click to toggle)</b></summary>
 <br>
 
+### 🧪 Hands-On Activity Reports
+
+| Document Name | Topic / Description | Format | Link |
+| :--- | :--- | :---: | :---: |
+| **HOA 1 Report** | CPE010 HOA 1 Lab Report | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/PRELIM%20TERM/HOA%201p1/CPE010_HOA1p1_Mendoza%2CRoy.pdf?raw=true) |
+| **HOA 2.1 Report** | CPE010 HOA 2.1 Lab Report (Supplementary Update) | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/PRELIM%20TERM/Hoa%202.1%20july%2016-21/_CPE010_HOA2p1_Mendoza%2CRoy-Suplementary%20Update.pdf?raw=true) |
+| **HOA 3 Report** | CPE010 HOA 3 Lab Report | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/PRELIM%20TERM/HOA%203p1/CPE010_HOA3_Mendoza%2C%20Roy.pdf?raw=true) |
+| **HOA 4.1 Report** | CPE010 HOA 4.1 Stacks Report | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/PRELIM%20TERM/HOA%204%20-%20stacks/CPE010_HOA4.1_Mendoza%2CRoy.pdf?raw=true) |
+| **HOA 5.1 Report** | CPE010 HOA 5.1 Queues Submission | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/PRELIM%20TERM/HOA%205p1/_CPE010_HOA5.1_Mendoza_Roy.pdf?raw=true) |
+| **HOA 6.1 Report** | CPE010 HOA 6.1 Searching Algorithms | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/MIDTERM/HOA%206p1/CPE010_HOA6.1_Mendoza_Roy.pdf?raw=true) |
+| **HOA 7.1 Report** | CPE010 HOA 7.1 Sorting Algorithms | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/MIDTERM/HOA%207p1/CPE010_HOA7p1_Mendoza%2C%20Roy.pdf?raw=true) |
+| **HOA 8.1 Report** | Hands-on Activity 8.1 Sorting Algorithms Pt. 2 | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/MIDTERM/HOA%208p1/Hands-on%20Activity%208.1%20Sorting%20Algorithms%20Pt2_Mendoza_Roy.pdf?raw=true) |
+| **HOA 9.1 Report** | CPE010 HOA 9.1 Trees Report | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/MIDTERM/HOA%209%20binary%20tree/CPE010_HOA9p1_Mendoza_Roy_FinalReal.pdf?raw=true) |
+| **HOA 10.1 Report** | CPE010 HOA 10.1 Graphs Report | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/FINALS%20TERM/HOA%2010p1/CPE010_HOA10p1_Mendoza_Roy%20.pdf?raw=true) |
+| **HOA 11.1 Report** | CPE010 HOA 11.1 Binary Search Timing Report (Pair) | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/FINALS%20TERM/HOA%2011p1/CPE010_HOA11p1_MendozaRoy_PilapilLoreen.pdf?raw=true) |
+| **HOA 12.1 Report** | CPE010 HOA 12.1 Dynamic Programming Report (Pair) | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/FINALS%20TERM/HOA%2012P1/CPE010_HOA12p1_Mendoza_Roy_Pilapil_Loreen-1.pdf?raw=true) |
+| **HOA 13.1 Report** | CPE010 HOA 13.1 Multithreading Report (Pair) | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/FINALS%20TERM/HOA%2013p1/CPE010_HOA13p1_Mendoza_Roy_Pilapil_Loreen-1.pdf?raw=true) |
+| **HOA 14.1 Report** | CPE010 HOA 14.1 Merge/Quick Sort & Search Benchmarks (Pair) | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/FINALS%20TERM/HOA%2014p1/CPE010_HOA14p1_MendozaRoy_PilapilLoreen.pdf?raw=true) |
+
+### 📓 Seatworks, Assignments & Analysis
+
 | Document Name | Topic / Description | Format | Link |
 | :--- | :--- | :---: | :---: |
 | **Asymptotic Analysis & Big O** | Complexity and efficiency analysis breakdown | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/Asymptotic%20Analysis%20%26%20Big%20O.pdf?raw=true) |
-| **HOA 3 Report** | CPE010 HOA 3 Lab Report | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/CPE010_HOA3_Mendoza%2C%20Roy.pdf?raw=true) |
-| **HOA 4.1 Report** | CPE010 HOA 4.1 Stacks Report | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/CPE010_HOA4.1_Mendoza%2CRoy.pdf?raw=true) |
-| **HOA 5.1 Report** | CPE010 HOA 5.1 Queues Submission | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/_CPE010_HOA5.1_Mendoza_Roy.pdf?raw=true) |
-| **HOA 6.1 Report** | CPE010 HOA 6.1 Searching Algorithms | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/CPE010_HOA6.1_Mendoza_Roy.pdf?raw=true) |
-| **HOA 7.1 Report** | CPE010 HOA 7.1 Sorting Algorithms | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/CPE010_HOA7p1_Mendoza%2C%20Roy.pdf?raw=true) |
-| **HOA 8.1 Report** | Hands-on Activity 8.1 Sorting Algorithms Pt. 2 | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/Hands-on%20Activity%208.1%20Sorting%20Algorithms%20Pt2_Mendoza_Roy.pdf?raw=true) |
-| **HOA 9.1 Report** | CPE010 HOA 9.1 Trees Report | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/CPE010_HOA9p1_Mendoza_Roy_FinalReal.pdf?raw=true) |
-| **HOA 14.1 Report** | CPE010 HOA 14.1 Merge/Quick Sort & Search Benchmarks (Pair) | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/CPE010_HOA14p1_MendozaRoy_PilapilLoreen.pdf?raw=true) |
-| **Seatwork 2.1** | CPE010 Seatwork 2.1 Submission | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/CPE010_SEATWORK2.1-Mendoza%2C%20Roy.pdf?raw=true) |
-| **Seatwork 4.1** | CPE010 Seatwork 4.1 Stacks Submission | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/CPE010_SW4.1_Mendoza%2CRoy.pdf?raw=true) |
-| **Seatwork 5.1** | Progress Report: Hands-on Activity 5.1 Queues | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/Seatwork%205.1%20Progress%20Report%20Hands-on%20Activity%205.1%20Queues_Mendoza_Roy.pdf?raw=true) |
-| **Seatwork 7.2** | Algorithm Analysis: Best/Worst Case Complexity | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/Seatwork%207.2_%20Algorithm%20Analysis_%20Best-Case%20and%20Worst-Case%20Time%20Complexity_Mendoza_Roy.pdf?raw=true) |
-| **Seatwork 8.1** | Using Sorting Algorithms 2 (Group 5) | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/Seatwork%208.1%20Using%20Sorting%20Algorithms%202_Group%205.pdf?raw=true) |
-| **Seatwork 9.1** | Implementing Trees | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/Seatwork%209.1%20Implementing%20Trees_Mendoza_Roy.pdf?raw=true) |
+| **Seatwork 2.1** | CPE010 Seatwork 2.1 Submission | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/SEATWORK/CPE010_SEATWORK2.1-Mendoza%2C%20Roy.pdf?raw=true) |
+| **Seatwork 4.1** | CPE010 Seatwork 4.1 Stacks Submission | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/SEATWORK/CPE010_SW4.1_Mendoza%2CRoy.pdf?raw=true) |
+| **Seatwork 5.1** | Progress Report: Hands-on Activity 5.1 Queues | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/SEATWORK/Seatwork%205.1%20Progress%20Report%20Hands-on%20Activity%205.1%20Queues_Mendoza_Roy.pdf?raw=true) |
+| **Seatwork 7.2** | Algorithm Analysis: Best/Worst Case Complexity | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/SEATWORK/Seatwork%207.2_%20Algorithm%20Analysis_%20Best-Case%20and%20Worst-Case%20Time%20Complexity_Mendoza_Roy.pdf?raw=true) |
+| **Seatwork 8.1** | Using Sorting Algorithms 2 (Group 5) | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/SEATWORK/Seatwork%208.1%20Using%20Sorting%20Algorithms%202_Group%205.pdf?raw=true) |
+| **Seatwork 9.1** | Implementing Trees | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/SEATWORK/Seatwork%209.1%20Implementing%20Trees_Mendoza_Roy.pdf?raw=true) |
 | **Assignment 6.1** | Linear and Binary Search (Group 5) | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/Assignment%206.1%20Linear%20and%20Binary%20Search_Group5.pdf?raw=true) |
-| **Activity 4 Stacks** | Act 4 Stacks Supplemental Document | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/Act%204_Stacks.pdf?raw=true) |
+| **Activity 4 Stacks** | Act 4 Stacks Supplemental Document | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/PRELIM%20TERM/HOA%204%20-%20stacks/Act%204_Stacks.pdf?raw=true) |
 
 </details>
 
@@ -153,14 +166,13 @@
 ## 🎓 Exams & Preparatory Files
 
 <details open>
-<summary><b>📂 Exam Code, Submissions, Reviewers & Practice Modules (Click to toggle)</b></summary>
+<summary><b>📂 Exam Code, Submissions & Reviewers (Click to toggle)</b></summary>
 <br>
 
 | Module / Document | Contents / Description | Status / Format | Interactive Link |
 | :--- | :--- | :---: | :---: |
 | **Prelim Laboratory Exam SET C** | Official Prelim Exam Documentation | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/Prelim%20Laboratory%20Exam%20SET%20C_Mendoza%2CRoy.pdf?raw=true) |
 | **Prelim Exam Source Code** | `main.cpp`, `arr.cpp`, `queue.cpp`, `arrStack.h`, `queueLL.h` | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/PRELIM%20TERM/PRELIM%20EXAM%20FILE) |
-| **Preparatory Files** | Palindrome Checker, Array Checker (`palindrome.h`, `arraycheckere.h`) | `✅ Completed` | [📂 Open Directory](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/tree/main/Preparatory%20files) |
 | **Data Structures Reviewer** | Consolidated data structures review notes | `DOCX` | [📄 Download](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/Data_Structures_Reviewer.docx?raw=true) |
 | **BST Reviewer** | Binary Search Tree review material | `PDF` | [📄 View PDF](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/BST_Reviewer.pdf?raw=true) |
 | **DSA Master Compilation** | Compiled course material for exam preparation | `DOCX` | [📄 Download](https://github.com/MendozaRoycpe/CPE010-Data-Structures-and-Algorithms/blob/main/DOCUMENTS/DSA_Master_Compilation.docx?raw=true) |
