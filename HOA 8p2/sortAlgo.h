@@ -103,7 +103,7 @@ int partition(T arr[], int left, int right) {
         arr[low] = arr[high];                           // swap them so each lands on its correct side
         arr[high] = tempSwap;                       // complete the swap
     }
-    T tempPivot = arr[low];                     // 'low' now points to the first element of the "greater than or equal" region
+    T tempPivot = arr[low];                     // 'low' now points to the first element of the "greater than or equal" re  gion
     arr[low] = arr[right];                      // move the pivot (still at arr[right]) into that spot — its final sorted position
     arr[right] = tempPivot;                     // complete the swap
     return low;                                 // return the pivot's final index so the caller knows where to split the array

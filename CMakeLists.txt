@@ -83,4 +83,16 @@ add_executable(untitled1 HOAFUCKTION2/HOA_1_1_FUNCTION_2.cpp
         "HOA 9 binary tree/Suplemt.cpp"
         "HOA 9 binary tree/genTreeExplanasyon.h"
         "SEATWORK 10/graph.h"
-        "SEATWORK 10/main.cpp")
+        "SEATWORK 10/main.cpp"
+        "HOA 10p1/CPE010_HOA10p1_MendozaRoy_sc2main.cpp"
+        "HOA 10p1/CPE010_HOA10p1_MendozaRoy_sc1_jiraph.h"
+        "HOA 11p1/HOA11.cpp"
+        "HOA 11p1/HOA11p1 supplementary.cpp"
+        "HOA12P1/HOA12p1.cpp"
+        HOA12P1/HOA12p1.2.cpp
+        "HOA13p1/HOA13p1.cpp"
+        HOA13p1/HOA13p2.cpp
+        "HOA13p1/HOA13 supB.cpp"
+        HOA14p1/HOA14p1.cpp
+        "HOA14p1/HOA14 sup.cpp"
+)
