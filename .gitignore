@@ -1,1 +1,10 @@
 .aider*
+
+# Compiled binaries
+*.exe
+*.o
+*.out
+
+# IDE state
+.idea/
+cmake-build-*/
